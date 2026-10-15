@@ -1,17 +1,7 @@
-# todolist
+**Todo-list**
 
-A new Flutter project.
+Saya memilih referensi M3 Expressive To-Do App karya Pranita Choure karena desainnya modern, menarik, dan menggunakan pendekatan Material 3 Expressive. Referensi ini menjadi acuan untuk memperbarui warna dan tampilan UI TodoList agar lebih rapi dan nyaman digunakan, tanpa mengubah fungsi utama aplikasi seperti menambah, menghitung, menandai selesai, dan menghapus tugas.
 
-## Getting Started
+Link Referensinya : 
+https://www.behance.net/gallery/248932125/M3-Expressive-To-Do-App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
